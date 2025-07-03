@@ -1,0 +1,14 @@
+- .env
+- DB
+  - connectDB.js
+- controllers
+  - authController.js
+- models
+  - userModel.js
+- package-lock.json
+- package.json
+- project_structure.text
+- routes
+  - authRoutes.js
+- server.js
+- utils
